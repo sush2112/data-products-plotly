@@ -1,7 +1,7 @@
 ---
 title: "Car Data"
-author: "Alex Vollmer"
-date: "November 5, 2016"
+author: "Preeti"
+date: "February 27, 2018"
 output: ioslides_presentation
 ---
 
